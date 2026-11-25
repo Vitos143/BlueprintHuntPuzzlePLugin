@@ -1,6 +1,9 @@
 Copyright (c) 2026 Viktor Belokopytov (Vito$). All rights reserved.
 
-The images and other files in this repository are the property of the copyright holder.
-They are published only so that the BlueprintHuntPuzzle plugin on the OUTSIDE Rust server
-can load them. No permission is granted to copy, modify, redistribute, sell or otherwise
-use them for any other purpose without prior written permission from the copyright holder.
+The blueprint-style piece images in this repository were made for the BlueprintHuntPuzzle
+plugin on the OUTSIDE Rust server and are published only so the plugin can load them.
+No permission is granted to copy, modify, redistribute, sell or otherwise use them for any
+other purpose without prior written permission.
+
+The weapon and item artwork inside the pieces comes from the game Rust and remains the
+property of Facepunch Studios. No ownership of that artwork is claimed.
